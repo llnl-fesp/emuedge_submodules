@@ -1,0 +1,9 @@
+[submodule "uedge"]
+	path = uedge
+	url = https://github.com/llnl-fesp/uedgemain
+[submodule "submod1"]
+	path = submod1
+	url = https://github.com/llnl-fesp/uedgesubmod1
+[submodule "submod2"]
+	path = submod2
+	url = https://github.com/llnl-fesp/uedgesubmod2
